@@ -11,7 +11,7 @@ except ImportError:
 
 
 desc = {
-    'name' : 'atmos'
+    'name' : 'atmos',
     'version' : __version__,
     'description' : 'Python API for Atmos cloud storage.',
     'url' : 'http://dat.github.com/pyatmos',
