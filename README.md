@@ -10,6 +10,10 @@ Installation
 ------
     $ python setup.py install
 
+License
+------
+GNU General Public License v3.0
+
 Author
 ------
 pyatmos is developed and maintained by Dat Hoang.

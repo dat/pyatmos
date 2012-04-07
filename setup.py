@@ -14,7 +14,7 @@ desc = {
     'name' : 'atmos'
     'version' : __version__,
     'description' : 'Python API for Atmos cloud storage.',
-    'url' : 'http://github.com/dat/pyatmos',
+    'url' : 'http://dat.github.com/pyatmos',
     'author' : 'Dat Hoang',
     'keywords' : ['atmos', 'REST', 'cloud storage'],
     'license' : 'GPLv3',
